@@ -1,4 +1,4 @@
-# 🎮 StatCraft ![Status](https://img.shields.io/badge/status-WIP-yellow)
+# 🎮 StatCraft ![Status](https://img.shields.io/badge/status-WIP-yellow) 
 
 **StatCraft** is a gamified **productivity** and **fitness tracker** that turns your study sessions and workouts into an RPG style progression system. Earn XP based on time studied and calories burned, unlock achievements, and level up your personal stats.
 
