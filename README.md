@@ -1,4 +1,4 @@
-# 🎮 StatCraft
+# 🎮 StatCraft ![Status](https://img.shields.io/badge/status-WIP-yellow)
 
 **StatCraft** is a gamified **productivity** and **fitness tracker** that turns your study sessions and workouts into an RPG style progression system. Earn XP based on time studied and calories burned, unlock achievements, and level up your personal stats.
 
@@ -42,18 +42,3 @@
 - HTML / CSS / JavaScript – Frontend UI  
 
 ---
-
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/statcraft.git
-
-# Navigate into the directory
-cd statcraft
-
-# Install dependencies
-npm install
-
-# Run the app
-npm start
